@@ -1,6 +1,6 @@
 # Personal_and_Coorporate_Banking_Sample
 
-This repo provides alternative solutions for Personal, Coorporate and mass organizations((Syndicate for an example) and the data for the customers' references
+This repo provides alternative solutions for Personal, Coorporate and mass organizations(Syndicate for an example) and the data for the customers' references
 
 Main gathers the user(Bank and/or Coorporate and/or Syndicate ) info and returns the tasks
 
